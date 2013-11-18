@@ -1,8 +1,7 @@
 CNCHI TODO LIST (4th October 2013)
 
 * General:
- - Check if we can remove subprocess calls to pythonian code
- - Encrypt home directory (done, needs testing)
+ - Remove Antergos branding
 
 * Advanced Install:
  - If you play with the partitioner (create partition, delete it, create it
