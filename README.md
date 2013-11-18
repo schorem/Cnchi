@@ -1,3 +1,6 @@
+# Forked from Cnchi - Graphical Installer for Antergos Linux (FKA Cinnarch Linux)
+
+
 # Cnchi
 
 Graphical Installer for Antergos Linux (FKA Cinnarch Linux)
